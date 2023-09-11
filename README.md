@@ -5,7 +5,7 @@ Healthtracka is a health tech company in Lagos, Nigeria. Healthtracka offers at-
 .
 ## Healthtracka seeks to find out:
 <ol>
-  <li>How many conversations happened between July 1 and July 23?</li>
+  <li>How many conversations happened between August 1 and August 30?</li>
   <li>Which day had the most messages?</li>
   <li>How many chat messages mentioned pricing?</li>
   <li>How many chat messages mentioned Healthtracka's Full body check-up test package?</li>
@@ -19,6 +19,6 @@ Healthtracka is a health tech company in Lagos, Nigeria. Healthtracka offers at-
   <li>Add all chat files into one folder: Instagram stores each chat as a file in a different folder, so as part of the data transformation process, I put all the chats in one folder.</li>
   <li>Convert each file into a dictionary. Instagram automatically exports the chats in JSON dictionaries, I merged all the chats into a while and saved the chats as dictionaries. Each conversation became a dictionary.</li>
   <li>I renamed the column names to structure the day as well as convert timestamp values into regular time and date.</li>
-  <li>I filtered out the irrelevant dates. I only needed data from July 1-23.</li>
+  <li>I filtered out the irrelevant dates. I only needed data from August 1-30.</li>
   <li>For analysis I made use of NLTK to identify keywords as well as the sentiment score of each of the messages the leads sent to us</li>
 </ol>
