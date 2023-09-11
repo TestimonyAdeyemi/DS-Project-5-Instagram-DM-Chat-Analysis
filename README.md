@@ -1,8 +1,8 @@
 # Instagram-DM-Chat-Analysis
 
 ## Back Story
-Healthtracka is a health tech company in Lagos, Nigeria. Healthtracka offers at-home lab tests as well as virtual doctors' consultations. And they have been running paid ads on Instagram for the past month. This campaign has generated leads (conversations). But Healthtracka needs to know how the conversations ended, the frequently asked questions as well as the number of conversations that ended on a promising note.
-
+Healthtracka is a health tech company in Lagos, Nigeria. Healthtracka offers at-home lab tests as well as virtual doctors' consultations. And they have been running paid ads on Instagram for the past month. This campaign has generated leads (conversations). But Healthtracka needs to know how the conversations ended, the frequently asked questions as well as the number of conversations that ended on a promising note. However, due to data privacy reasons, I can not share the conversation data files. You can edit the code to fit your organisation's context as I organised the conversations using health related and healthtracka product specific key words.
+.
 ## Healthtracka seeks to find out:
 <ol>
   <li>How many conversations happened between July 1 and July 23?</li>
